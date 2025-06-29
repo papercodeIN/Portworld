@@ -16,20 +16,3 @@
 
 ---
 
----
-
-<p align="center">
-  <span style="color: #FFD700; font-size: 1.1em;"><strong>If you like this, consider supporting us:</strong></span>
-</p>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/pylin" target="_blank" aria-label="Buy Me a Coffee">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCKKhdFV0q8CV5vWUDfiDfTw" target="_blank" aria-label="Subscribe on YouTube">
-    <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube">
-  </a>
-</p>
-
----
