@@ -19,15 +19,13 @@
 
 ---
 
-# System Image 
-
+$\color{Green}\Huge{\textbf{System Image }}$
 - [Debian](https://github.com/papercodeIN/Portworld/tree/main/PortPi%203A/OS/Debian-20241119)
 - [Android](https://github.com/papercodeIN/Portworld/tree/main/PortPi%203A/OS/Android-20241218)
 
 ---
 
-## Shorts
-
+$\color{Green}\Huge{\textbf{Shorts Video}}$
 1. 🆓️Unboxing Products from Portworld | Port Pi 3A SBC | Cooling Fan | 4GB RAM + 32GB EMMC | RK3568 | [**[Watch]**](https://youtube.com/shorts/FrldvFiLv8w)
 2. 🆓️Unboxing Port Pi 3A Single Board Computer from Portworld | 4GB RAM | 32GB EMMC | RockChip RK3568 | [**[Watch]**](https://youtube.com/shorts/yYVjYht3bYI)
 3. 🆓️Unboxing and Assembling Cooling Fan of Port Pi 3A SBC | 4GB RAM | 32GB EMMC | RockChip RK3568 | [**[Watch]**](https://youtube.com/shorts/WqgkuprQy3g)
@@ -35,7 +33,7 @@
 5. 🆓️Running Debian Linux on Port Pi 3A Single Board Computer | 4GB RAM | 32GB EMMC | WiFi + BT | [**[Watch]**](https://youtube.com/shorts/JNK4A1_ghk8)
 6. 🆓️DIY Android Tablet: The PortPi 3A + Elecrow 7 inch Touch Monitor [**[Watch]**](https://youtube.com/shorts/2da2S41HYJA)
 
-## Getting Started with Port Pi 3A
-
+$\color{Green}\Huge{\textbf{Getting Started with Port Pi 3A}}$
 1. ⏳️Build Your Own DIY Android Tablet with Port Pi 3A and HDMI Screen 
 2. ⏳️Getting Started with Your Port Pi 3A with Debian Linux and HDMI Screen
+---
