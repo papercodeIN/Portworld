@@ -33,7 +33,10 @@ $\color{Green}\Huge{\textbf{Shorts Video}}$
 5. 🆓️Running Debian Linux on Port Pi 3A Single Board Computer | 4GB RAM | 32GB EMMC | WiFi + BT | [**[Watch]**](https://youtube.com/shorts/JNK4A1_ghk8)
 6. 🆓️DIY Android Tablet: The PortPi 3A + Elecrow 7 inch Touch Monitor [**[Watch]**](https://youtube.com/shorts/2da2S41HYJA)
 
+---
+
 $\color{Green}\Huge{\textbf{Getting Started with Port Pi 3A}}$
+
 1. ⏳️Build Your Own DIY Android Tablet with Port Pi 3A and HDMI Screen 
 2. ⏳️Getting Started with Your Port Pi 3A with Debian Linux and HDMI Screen
 ---
