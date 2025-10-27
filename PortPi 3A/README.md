@@ -25,6 +25,14 @@ $\color{Green}\Huge{\textbf{System Image }}$
 
 ---
 
+### 🚀 Explore the Port Pi 3A SBC  
+Unbox, build, and power up your next DIY project with the Port Pi 3A Single Board Computer from Portworld.  
+**Specs:** RK3568 | 4GB RAM | 32GB eMMC | WiFi + Bluetooth | Android & Linux Support  
+
+👉 [Visit Product Page](https://portworld-solu.com/portfolio-item/portpi3a/)  
+
+---
+
 $\color{Green}\Huge{\textbf{Shorts Video}}$
 1. 📦 Portworld Unboxing: Port Pi 3A SBC + Cooling Fan | RK3568 | 4GB RAM + 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/FrldvFiLv8w)
 2. 📦 Unboxing Port Pi 3A SBC from Portworld | RK3568 | 4GB RAM + 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/yYVjYht3bYI)
