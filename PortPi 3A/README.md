@@ -27,8 +27,8 @@ $\color{Green}\Huge{\textbf{System Image }}$
 
 $\color{Green}\Huge{\textbf{Shorts Video}}$
 1. 🆓️Unboxing Products from Portworld | Port Pi 3A SBC | Cooling Fan | 4GB RAM + 32GB EMMC | RK3568 | [**[Watch]**](https://youtube.com/shorts/FrldvFiLv8w)
-2. 🆓️Unboxing Port Pi 3A Single Board Computer from Portworld | 4GB RAM | 32GB EMMC | RockChip RK3568 | [**[Watch]**](https://youtube.com/shorts/yYVjYht3bYI)
-3. 🆓️Unboxing and Assembling Cooling Fan of Port Pi 3A SBC | 4GB RAM | 32GB EMMC | RockChip RK3568 | [**[Watch]**](https://youtube.com/shorts/WqgkuprQy3g)
+2. 🆓️📦 Unboxing Port Pi 3A SBC from Portworld | RK3568 | 4GB RAM + 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/yYVjYht3bYI)
+3. 🆓️🛠️ Port Pi 3A SBC: Cooling Fan Setup + Unboxing | RK3568 | 4GB RAM | 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/WqgkuprQy3g)
 4. 🆓️DIY Android Tablet using Port Pi 3A Single Board Computer from Portworld | Android 11 | 4GB + 32GB | [**[Watch]**](https://youtube.com/shorts/2DBpdEoSNg8)
 5. 🆓️Running Debian Linux on Port Pi 3A Single Board Computer | 4GB RAM | 32GB EMMC | WiFi + BT | [**[Watch]**](https://youtube.com/shorts/JNK4A1_ghk8)
 6. 🆓️DIY Android Tablet: The PortPi 3A + Elecrow 7 inch Touch Monitor [**[Watch]**](https://youtube.com/shorts/2da2S41HYJA)
