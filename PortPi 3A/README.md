@@ -26,7 +26,7 @@ $\color{Green}\Huge{\textbf{System Image }}$
 ---
 
 $\color{Green}\Huge{\textbf{Shorts Video}}$
-1. 🆓️Unboxing Products from Portworld | Port Pi 3A SBC | Cooling Fan | 4GB RAM + 32GB EMMC | RK3568 | [**[Watch]**](https://youtube.com/shorts/FrldvFiLv8w)
+1. 🆓️📦 Portworld Unboxing: Port Pi 3A SBC + Cooling Fan | RK3568 | 4GB RAM + 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/FrldvFiLv8w)
 2. 🆓️📦 Unboxing Port Pi 3A SBC from Portworld | RK3568 | 4GB RAM + 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/yYVjYht3bYI)
 3. 🆓️🛠️ Port Pi 3A SBC: Cooling Fan Setup + Unboxing | RK3568 | 4GB RAM | 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/WqgkuprQy3g)
 4. 🆓️DIY Android Tablet using Port Pi 3A Single Board Computer from Portworld | Android 11 | 4GB + 32GB | [**[Watch]**](https://youtube.com/shorts/2DBpdEoSNg8)
