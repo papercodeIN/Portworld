@@ -26,12 +26,12 @@ $\color{Green}\Huge{\textbf{System Image }}$
 ---
 
 $\color{Green}\Huge{\textbf{Shorts Video}}$
-1. 🆓️📦 Portworld Unboxing: Port Pi 3A SBC + Cooling Fan | RK3568 | 4GB RAM + 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/FrldvFiLv8w)
-2. 🆓️📦 Unboxing Port Pi 3A SBC from Portworld | RK3568 | 4GB RAM + 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/yYVjYht3bYI)
-3. 🆓️🛠️ Port Pi 3A SBC: Cooling Fan Setup + Unboxing | RK3568 | 4GB RAM | 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/WqgkuprQy3g)
-4. 🆓️📱 DIY Android Tablet with Port Pi 3A SBC | Android 11 | 4GB RAM + 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/2DBpdEoSNg8)
-5. 🆓️🐧 Debian Linux on Port Pi 3A SBC | RK3568 | 4GB RAM + 32GB eMMC | WiFi + Bluetooth Setup | [**[Watch]**](https://youtube.com/shorts/JNK4A1_ghk8)
-6. 🆓️🔧 Turn PortPi 3A into an Android Tablet! | 4GB RAM + 32GB eMMC | Elecrow 7" Touch Display | [**[Watch]**](https://youtube.com/shorts/2da2S41HYJA)
+1. 📦 Portworld Unboxing: Port Pi 3A SBC + Cooling Fan | RK3568 | 4GB RAM + 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/FrldvFiLv8w)
+2. 📦 Unboxing Port Pi 3A SBC from Portworld | RK3568 | 4GB RAM + 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/yYVjYht3bYI)
+3. 🛠️ Port Pi 3A SBC: Cooling Fan Setup + Unboxing | RK3568 | 4GB RAM | 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/WqgkuprQy3g)
+4. 📱 DIY Android Tablet with Port Pi 3A SBC | Android 11 | 4GB RAM + 32GB eMMC | [**[Watch]**](https://youtube.com/shorts/2DBpdEoSNg8)
+5. 🐧 Debian Linux on Port Pi 3A SBC | RK3568 | 4GB RAM + 32GB eMMC | WiFi + Bluetooth Setup | [**[Watch]**](https://youtube.com/shorts/JNK4A1_ghk8)
+6. 🔧 Turn PortPi 3A into an Android Tablet! | 4GB RAM + 32GB eMMC | Elecrow 7" Touch Display | [**[Watch]**](https://youtube.com/shorts/2da2S41HYJA)
 
 ---
 
