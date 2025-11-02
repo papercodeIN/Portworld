@@ -52,6 +52,7 @@ Unbox, build, and power up your next DIY project with the **Port Pi 3A Single Bo
 | 📱 DIY Android Tablet Build | [Watch](https://youtube.com/shorts/2DBpdEoSNg8) |
 | 🐧 Debian Linux Setup | [Watch](https://youtube.com/shorts/JNK4A1_ghk8) |
 | 🔧 Android Tablet with Elecrow 7" Touch | [Watch](https://youtube.com/shorts/2da2S41HYJA) |
+| 👋 Introduction to PortPi 3A SBC | [Watch](https://youtube.com/shorts/0Le-yQnK_cs) |
 
 ---
 
